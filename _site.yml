@@ -1,0 +1,37 @@
+name: "CDC R Workshop July 29-30, 2020"
+output_dir: "docs"
+navbar:
+  title: "CDC R Workshop July 2020"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "DAY 1"
+      icon: fa-archive
+      href: files.html
+    - text: "DAY 2"
+      icon: fa-archive
+      href: files.html
+    - text: "Files"
+      icon: fa-files-o
+      href: files.html
+    - text: "Instructors"
+      icon: fa-users
+      href: about.html
+    - text: "Help"
+      icon: fa-cog
+      href: help.html
+  right:
+    - text: "Colophon"
+      icon: fa-info-circle
+      href: colophon.html
+output:
+  html_document:
+    theme: lumen
+    toc: true
+    toc_float: true
+    highlight: kate
+    include:
+      after_body: footer.html
+    css: [styles.css, font-awesome-4.7.0/css/font-awesome.css]
+    self_contained: yes
