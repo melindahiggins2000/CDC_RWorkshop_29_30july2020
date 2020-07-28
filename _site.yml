@@ -8,18 +8,18 @@ navbar:
       href: index.html
     - text: "DAY 1"
       icon: fa-archive
-      href: files.html
+      href: day1.html
     - text: "DAY 2"
       icon: fa-archive
+      href: day2.html
+    - text: "Github"
+      icon: fa-github
       href: files.html
-    - text: "Files"
-      icon: fa-files-o
-      href: files.html
-    - text: "Instructors"
+    - text: "Instructor"
       icon: fa-users
       href: about.html
     - text: "Help"
-      icon: fa-cog
+      icon: fa-question-circle-o
       href: help.html
   right:
     - text: "Colophon"
