@@ -2,19 +2,16 @@
 title: "Helpful Links and Refs for R, RStudio, Git & Github"
 ---
 
-## R
-
-See YouTube Video for Installing R, RStudio and Rmarkdown at [https://youtu.be/MsV5dJ2reQ4](https://youtu.be/MsV5dJ2reQ4)
+## R and RStudio
 
 * Download R from [https://cran.r-project.org/](https://cran.r-project.org/)
 * Download RStudio Desktop from [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
-
 
 ### Learning R
 
 * [Data Camp](https://www.datacamp.com/)
     + DataCamp is another great place to start learning online. You need to create an account to get started. There are many FREE courses available on R.
-* [RStudio Online Learning](https://www.rstudio.com/resources/training/online-learning/)
+* [RStudio Education](https://education.rstudio.com/)
     + RStudio also provides a wealth of tutorials, articles, and examples exist to help you learn R and its extensions.
 * [UCLA Institute for Digital Research and Education (IDRE)](http://www.ats.ucla.edu/stat/r/)
     + The IDRE by UCLA is an excellent source for help with many statistical software pages and analyses including R.
@@ -42,7 +39,6 @@ The websites listed below all provide information on how to get help in R.
 On the main RStudio website [https://www.rstudio.com/products/rstudio/](https://www.rstudio.com/products/rstudio/) there is a short overview video. But also check out:
 
 * Feature overview [https://www.rstudio.com/products/rstudio/features/](https://www.rstudio.com/products/rstudio/features/)
-* Online learning for R, Rmarkdown, RStudio and more [https://www.rstudio.com/online-learning/](https://www.rstudio.com/online-learning/)
 * Webinars [https://www.rstudio.com/resources/webinars/](https://www.rstudio.com/resources/webinars/)
 * lots of helpful cheatsheets [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
 

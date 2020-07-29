@@ -4,6 +4,6 @@ title: "Github repository for workshop materials"
 
 ## <i class="fa fa-github fa-1x"></i> **Github** Repositories
 
-The files (R code, data, Rmarkdown files, etc) for this workshop have been placed into this **Github** [repository](https://github.com/melindahiggins2000/CDC_RWorkshop_29_30july2020).
+The files (R code, data, Rmarkdown files, etc) for this workshop have been placed into this [**Github** repository](https://github.com/melindahiggins2000/CDCjuly2020).
 
 This repository can be "Cloned or Downloaded (as a ZIP)" to your local harddrive for easy offline reference OR it can be "forked" so that a copy of the repository is "copied" into YOUR Github account. If you "fork" a copy be sure you are logged into your Github account first. 
