@@ -6,7 +6,7 @@ title: "DAY 2"
 
 Choose "CDCjuly2020_day12" Project for DAY 2 - this has all of the files from Day 1 PLUS files for exercises on Day 2.
 
-[Github Repository for Day 1](https://github.com/melindahiggins2000/CDCjuly2020) - files updated at the end of Day 1 (~4:30pm)
+[Github Repository for Day 1 and Day 2 together](https://github.com/melindahiggins2000/CDCjuly2020_day12) - files from both Day 1 and Day 2
 
 ## MORNING 9:00 - 12:00
 
