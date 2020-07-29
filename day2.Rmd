@@ -2,15 +2,17 @@
 title: "DAY 2"
 ---
 
+[RStudio.cloud R Workshops Workspace link](https://rstudio.cloud/spaces/36397/join?access_code=sVkAKq5o45zIeUMI2EhDJps3PgY5NF28X5UELrOf)
+
+Choose "CDCjuly2020_day12" Project for DAY 2 - this has all of the files from Day 1 PLUS files for exercises on Day 2.
+
+[Github Repository for Day 1](https://github.com/melindahiggins2000/CDCjuly2020) - files updated at the end of Day 1 (~4:30pm)
+
 ## MORNING 9:00 - 12:00
 
-### 09:00-10:20 Session 1
-
-### 10:20-10:40 Break
-
-**Short break**
-
-### 10:40-12:00 Session 2
+* 09:00-10:20 Session 1
+* 10:20-10:40 Break
+* 10:40-12:00 Session 2
 
 ## LUNCH BREAK 12:00 - 1:00
 
@@ -18,13 +20,9 @@ title: "DAY 2"
 
 ## AFTERNOON 1:00 - 4:00
 
-### 1:00-2:20 Session 3
-
-### 2:20-2:40 Break
-
-**Short break**
-
-### 2:40-4:00 Session 4
+* 1:00-2:20 Session 3
+* 2:20-2:40 Break
+* 2:40-4:00 Session 4
 
 
 
